@@ -1,0 +1,182 @@
+[
+    {
+        "name":  "38th Parallel",
+        "src":  "38th Parallel,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Aral Sea",
+        "src":  "Aral Sea,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Ardennes",
+        "src":  "Ardennes,275.png",
+        "scale":  275.00
+    },
+    {
+        "name":  "Attica",
+        "src":  "Attica,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Breslau",
+        "src":  "Breslau,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Campania",
+        "src":  "Campania,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Carpathians",
+        "src":  "Carpathians,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Eastern Europe",
+        "src":  "Eastern Europe,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "El Alamein",
+        "src":  "El Alamein,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "European Province",
+        "src":  "European Province,550.png",
+        "scale":  550.0
+    },
+    {
+        "name":  "Fields of Normandy",
+        "src":  "Fields of Normandy,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Finland",
+        "src":  "Finland,275.png",
+        "scale":  275.00
+    },
+    {
+        "name":  "Fire Arc",
+        "src":  "Fire Arc,700.png",
+        "scale":  700.0
+    },
+    {
+        "name":  "Flanders",
+        "src":  "Flanders,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Fulda",
+        "src":  "Fulda,550.png",
+        "scale":  550.0
+    },
+    {
+        "name":  "Golden Quarry",
+        "src":  "Golden Quarry,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Ground Zero",
+        "src":  "Ground Zero,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Iberian Castle",
+        "src":  "Iberian Castle,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Kuban",
+        "src":  "Kuban,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Maginot Line",
+        "src":  "Maginot Line,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Middle East",
+        "src":  "Middle East,275.png",
+        "scale":  275.00
+    },
+    {
+        "name":  "Mozdok",
+        "src":  "Mozdok,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Normandy",
+        "src":  "Normandy,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "North Holland",
+        "src":  "North Holland,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Poland",
+        "src":  "Poland,250.png",
+        "scale":  250.0
+    },
+    {
+        "name":  "Port",
+        "src":  "Port,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Pradesh",
+        "src":  "Pradesh,400.png",
+        "scale":  400.0
+    },
+    {
+        "name":  "Red Desert",
+        "src":  "Red Desert,550.png",
+        "scale":  550.0
+    },
+    {
+        "name":  "Sands of Sinai",
+        "src":  "Sands of Sinai,325.png",
+        "scale":  325.00
+    },
+    {
+        "name":  "Seversk-13",
+        "src":  "Seversk-13,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Sinai",
+        "src":  "Sinai,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Spaceport",
+        "src":  "Spaceport,300.png",
+        "scale":  300.0
+    },
+    {
+        "name":  "Sweden",
+        "src":  "Sweden,200.png",
+        "scale":  200.0
+    },
+    {
+        "name":  "Test Site",
+        "src":  "Test Site,225.png",
+        "scale":  225.00
+    },
+    {
+        "name":  "Tunisia",
+        "src":  "Tunisia,450.png",
+        "scale":  450.0
+    },
+    {
+        "name":  "Volokolamsk",
+        "src":  "Volokolamsk,550.png",
+        "scale":  550.0
+    }
+]

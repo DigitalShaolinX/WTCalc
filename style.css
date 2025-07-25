@@ -7,4 +7,6 @@ canvas {
   border: 1px solid #555;
   margin-top: 10px;
   cursor: crosshair;
+  width: 400px;
+  height: 400px;
 }
